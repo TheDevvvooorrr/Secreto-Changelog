@@ -1,4 +1,4 @@
-# Secreto — Changelog
+# Secreto Changelog
 
 > Product-level changes only. No internal code details.
 
