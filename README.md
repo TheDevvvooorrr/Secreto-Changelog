@@ -15,3 +15,4 @@ Secreto focuses on clean UX, clear fee visibility, and a straightforward transfe
 Active development.
 
 See [CHANGELOG.md](./CHANGELOG.md) for release notes.
+
